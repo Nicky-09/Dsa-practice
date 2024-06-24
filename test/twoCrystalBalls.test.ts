@@ -9,5 +9,4 @@ test("two crystal balls", function () {
   }
 
   expect(twoCrystalBalls(data)).toEqual(idx)
-  expect(twoCrystalBalls(data)).toEqual(idx)
 })
